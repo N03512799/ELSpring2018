@@ -4,7 +4,7 @@
 # Spring 2018 Embedded Linux Class
 
 This is my repositiory for all my documents and class work for **CPS342**. 
-All work here is my own, unless otherwise noted.
+All work here is my own, unless otherwise noted:
 
 1. **Personal Information:**  
   
