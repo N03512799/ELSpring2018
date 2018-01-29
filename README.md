@@ -6,7 +6,7 @@ This is my repositiory for all my documents and class work for **CPS342**.
 All work here is my own, unless otherwise noted.
 
 1. **Personal Information:**
-   Name: *Seraphim Dmitrieff*
-   Major: *Computer Science*
-   ID: https://github.com/N03512799
-   Year: *Senior*
+*  Name: *Seraphim Dmitrieff*
+*  Major: *Computer Science*
+*  ID: [N03512799](https://github.com/N03512799)
+*  Year: *Senior*
