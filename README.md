@@ -1,3 +1,4 @@
+<!--Added HTML to resize image-->
 <img src = "/misc/newpaltzlogo.jpg" width="40%">
 
 # Spring 2018 Embedded Linux Class
