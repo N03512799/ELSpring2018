@@ -1,4 +1,4 @@
-![New Paltz Logo](/misc/newpaltzlogo.jpg {width=40px})
+<img src = "/misc/newpaltzlogo.jpg" width="40%">
 
 # Spring 2018 Embedded Linux Class
 
