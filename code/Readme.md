@@ -1,3 +1,5 @@
+![Coding GIF](/misc/giphy.gif)
+
 
 # Embedded Linux Spring 2018 Code
 
