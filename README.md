@@ -1,4 +1,4 @@
-![New Paltz Logo](/misc/newpaltzlogo.jpg)
+![New Paltz Logo](/misc/newpaltzlogo.jpg | width="40%")
 
 # Spring 2018 Embedded Linux Class
 
