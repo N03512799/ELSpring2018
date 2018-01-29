@@ -1,3 +1,8 @@
-# ELSpring2018
-This is my (N03512799) class repositiory. All work here is my own, unless otherwise noted.
+![New Paltz Logo](/misc/newpaltzlogo.jpg)
 
+# ELSpring2018 Embedded Linux Class
+
+This is my repositiory for all my documents and class work for **CPS342**. 
+All work here is my own, unless otherwise noted.
+
+1.**Personal Information:**
