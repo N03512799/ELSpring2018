@@ -28,8 +28,8 @@ function newConnection(socket){
     		var pythonProcess = spawn('python3', ["test.py", query]);
 
 		pythonProcess.stdout.on('data', function (data){
-			console.log(data.toString());
-			socket.emit('data', data.toString());
+			
+			socket.emit('data');
 		});
 		
 	}
