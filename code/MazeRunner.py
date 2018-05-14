@@ -502,7 +502,7 @@ while notAtEnd:
 
 #check for left path priority
 
-		if decision[0] == 1 and decision[2] == 1:
+		if decision[0] == 1:
 			turns.append(1)
 			current = 1
 			turnLeft()
