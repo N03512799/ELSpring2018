@@ -24,22 +24,22 @@ All work here is my own, unless otherwise noted:
 
 **Project Group Breakdown:**
 
-	**David:** Assisted with design issues pertaining to power supply as well as 
+	David: Assisted with design issues pertaining to power supply as well as 
 	calibrating the IR Line Sensor. He did build a setup using the Line Sensor given
 	but due to time constraints and lack of hardware the setup was no useable
 	
-		Project commitment (*15%*): missed too many group meetings
+		Project commitment (15%): missed too many group meetings
 		
-	**Michael:** Researched H-Bridges and useable GPIO pins had some code available to
+	Michael: Researched H-Bridges and useable GPIO pins had some code available to
 	test motor control. Assisted with debugging vehicle and contributing to interim
 	and final Reports
 	
-		Project Commitment (*30%*): Kept breaking down a reassembling vehicle causing delays
+		Project Commitment (30%): Kept breaking down a reassembling vehicle causing delays
 		
-	**Seraphim:** Assembled vehicle, organized cables, coded motor control, maze solving algorithm, 
+	Seraphim: Assembled vehicle, organized cables, coded motor control, maze solving algorithm, 
 	 and return code to backtrack best path taken, purchased line sensor used in final vehicle.
 	 
-		Project Commitment (*55%*): Unable to work on final vehicle until weekend before
+		Project Commitment (55%): Unable to work on final vehicle until weekend before
 		due to lack of other components.
 		
 **Can the vehicle follow a straight line?** 
