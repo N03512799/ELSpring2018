@@ -2,6 +2,6 @@
 
 Miscellaneous items are placed here including:  
 
-*  images
+*  images of Completed Final Project
 
 
