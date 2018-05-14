@@ -22,6 +22,12 @@ All work here is my own, unless otherwise noted:
 
 *****************************************************************************
 
+	Design of Final Project is located in docs under Final PRoject Design
+	
+	Photos of project available in misc folder
+	
+	Code for Maze Solver and test code available in code folder
+
 **Project Group Breakdown:**
 
 	David: Assisted with design issues pertaining to power supply as well as 
