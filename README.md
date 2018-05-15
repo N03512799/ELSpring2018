@@ -22,7 +22,7 @@ All work here is my own, unless otherwise noted:
 
 *****************************************************************************
 
-	Design of Final Project is located in docs under Final Project Design
+	Design of Final Project is located in docs under Project Design.docx
 	
 	Photos of project available in misc folder
 	
