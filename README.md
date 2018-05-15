@@ -40,12 +40,12 @@ All work here is my own, unless otherwise noted:
 	test motor control. Assisted with debugging vehicle and contributing to interim
 	and final Reports
 	
-		Project Commitment (30%): Kept breaking down a reassembling vehicle causing delays
+		Project Commitment (35%): Worked consistently on motors, was present to help debug most issues
 		
 	Seraphim: Assembled vehicle, organized cables, coded motor control, maze solving algorithm, 
 	 and return code to backtrack best path taken, purchased line sensor used in final vehicle.
 	 
-		Project Commitment (55%): Unable to work on final vehicle until weekend before
+		Project Commitment (50%): Unable to work on final vehicle until weekend before
 		due to lack of other components.
 		
 **Can the vehicle follow a straight line?** 
